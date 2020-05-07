@@ -1,3 +1,12 @@
+/*
+ * HackerRank link:https://www.hackerrank.com/contests/cst370-su20-hw3/challenges/palindrome-check-10/submissions/code/1323407483
+ * Title: hw3_1.java
+ * Abstract: Reads user input of string and recursively determines if it is a palindrome
+ * Author: Adam Houser
+ * ID: 1144
+ * Date: 5/6/2020
+ */
+
 import java.util.Scanner;
 
 public class hw3_1 {
